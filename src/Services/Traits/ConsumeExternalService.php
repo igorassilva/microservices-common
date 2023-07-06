@@ -4,7 +4,7 @@ namespace Igorassilva\MicroservicesCommon\Services\Traits;
 
 use Illuminate\Support\Facades\Http;
 
-class ConsumeExternalService
+trait ConsumeExternalService
 {
     public function headers(array $headers = [])
     {
