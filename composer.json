@@ -1,0 +1,19 @@
+{
+    "name": "igorassilva/microservices-common",
+    "description": "Package Files Utils Microservices Courses",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Igorassilva\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Augusto",
+            "email": "igor@igoraugusto.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
